@@ -1,99 +1,98 @@
-# 👋 Hi, I'm Niranjan Yaji
+<h1 align="center">Hi 👋, I'm Niranjan Yaji</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MCA+Student;Software+Developer;Python+%7C+Java+%7C+JavaScript;Web+Development+Enthusiast;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;MCA+Student+at+MIT+Manipal;Full-Stack+Web+Development+Enthusiast;Python+%7C+Java+%7C+JavaScript;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/niranjan-yaji">
+    <img src="https://img.shields.io/github/followers/niranjan-yaji?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&label=PROFILE+VIEWS" />
+  <a href="https://github.com/niranjan-yaji?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-View-blue?style=for-the-badge&logo=github" alt="Projects" />
+  </a>
+  <a href="https://www.linkedin.com/in/niranjan-yaji">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Applications graduate and currently pursuing my journey in software development.
-
-- 🎓 BCA Graduate — **9.04 CGPA | First Class with Distinction**
-- 💻 Interested in **Software Development & Web Development**
-- 🐍 Currently strengthening my **Python** skills
-- 🌐 Building projects using **HTML, CSS & JavaScript**
-- 🗄️ Learning and practicing **SQL & Database Management**
-- 🚀 Interested in building practical and useful applications
-- 📚 Always learning and improving my technical skills
+- 🎓 MCA student at **Manipal Institute of Technology, Manipal**
+- 💻 Aspiring **Software Developer**
+- 🌐 Building web applications using **HTML, CSS, JavaScript, PHP and Bootstrap**
+- 🐍 Strengthening my **Python programming** skills
+- ☕ Practicing **Java and Object-Oriented Programming**
+- 🗄️ Working with **MySQL and database management**
+- 🧠 Interested in **Data Structures, Algorithms and Software Engineering**
+- 🤖 Exploring **Natural Language Processing and Artificial Intelligence**
+- 🚀 Passionate about building practical and user-friendly applications
+- 📚 Always learning, building and improving
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" alt="Programming Languages" />
 </p>
 
-### Web Development
+### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php" alt="Web Technologies" />
 </p>
 
-### Database & Tools
+### 🗄️ Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Database and Tools" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 Hangman Game
-
-A web-based Hangman game developed as a practical application project.
-
-**Technologies:** HTML • CSS • JavaScript
-
-🔗 [View Project](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
-
----
-
 ### 🧹 Sunshine Services
 
-A web-based home-service management platform designed to manage cleaning and repair services.
+A web-based service management platform for managing home and office cleaning services.
 
-**Technologies:** PHP • MySQL • HTML • CSS
+**Tech Stack:** PHP • MySQL • HTML • CSS
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+🔗 [View Project](https://github.com/niranjan-yaji)
 
 ---
 
-## 🔥 Contribution Activity
+### 🏠 DreamSpace
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+A responsive interior design website with features such as authentication, booking and wishlist management.
+
+**Tech Stack:** HTML • CSS • JavaScript • Bootstrap
+
+🔗 [View Project](https://github.com/niranjan-yaji)
 
 ---
 
-## 📚 Currently Learning
+### 🎮 Hangman Game
+
+A simple and interactive Hangman game developed as an Android application project.
+
+**Tech Stack:** Android • Java
+
+🔗 [View Project](https://github.com/niranjan-yaji)
+
+---
+
+## 📚 Currently Improving
 
 ```text
-Python          ███████████████░░░
-Java            ████████████░░░░░░
-JavaScript      █████████████░░░░░
-SQL             ██████████████░░░░
-Web Development ███████████████░░░
-Git & GitHub    ████████████░░░░░░
+Full-Stack Development     ███████████████░░░
+Python Programming         ██████████████░░░░
+Data Structures & Algo     ████████████░░░░░░
+Java & OOP                  █████████████░░░░░
+SQL & Database Design       ██████████████░░░░
+Git & GitHub                ███████████████░░░
