@@ -77,13 +77,7 @@ A responsive interior design website with features such as authentication, booki
 
 ---
 
-### 🎮 Hangman Game
 
-A simple and interactive Hangman game developed as an Android application project.
-
-**Tech Stack:** Android • Java
-
-🔗 [View Project](https://github.com/niranjan-yaji)
 
 ---
 
