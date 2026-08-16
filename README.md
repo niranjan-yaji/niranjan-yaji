@@ -63,7 +63,7 @@ A web-based service management platform for managing home and office cleaning se
 
 **Tech Stack:** PHP • MySQL • HTML • CSS
 
-🔗 [View Project](https://github.com/niranjan-yaji)
+🔗 [View Project](https://github.com/niranjan-yaji/Sunshine-Service)
 
 ---
 
@@ -73,7 +73,7 @@ A responsive interior design website with features such as authentication, booki
 
 **Tech Stack:** HTML • CSS • JavaScript • Bootstrap
 
-🔗 [View Project](https://github.com/niranjan-yaji)
+🔗 [View Project](https://github.com/niranjan-yaji/interior-design-website)
 
 ---
 
